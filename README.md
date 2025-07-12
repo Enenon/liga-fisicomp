@@ -24,3 +24,7 @@ Projetos relacionados à Liga Acadêmica de Física Computacional do IF-UFBA
 - Projeto simples de simulação gravitacional de dois corpos;
 
 - Projeto de trajetória de partícula sob campo elétrico e potencial;
+
+- Estudo do [código que achou o Bóson de Higgs](https://github.com/cms-opendata-education/cms-jupyter-materials-english/blob/master/Exercises-with-open-data/Advanced/Hunting-the-Higgs-4leptons.ipynb);
+
+- Estudo do [código que detectou ondas gravitacionais](https://numpy.org/pt/case-studies/gw-discov/);
